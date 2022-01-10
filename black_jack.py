@@ -1,4 +1,5 @@
 ############### Blackjack Project #####################
+# play black jack in your ide!
 import random
 import os
   
